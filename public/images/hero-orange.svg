@@ -1,0 +1,16 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF9E00" />
+      <stop offset="100%" stop-color="#FF3B6D" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="640" height="480" rx="40" fill="url(#g3)" opacity="0.18"/>
+  <rect x="60" y="80" width="520" height="320" rx="32" fill="#081127" stroke="#FF9E00" stroke-opacity="0.35" stroke-width="4"/>
+  <path d="M220 220L420 220" stroke="#FF3B6D" stroke-width="18" stroke-linecap="round"/>
+  <path d="M230 270L410 270" stroke="#00D9FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M260 160C280 140 360 140 380 160" stroke="#ffffff" stroke-width="10" fill="none"/>
+  <circle cx="320" cy="300" r="54" fill="#0A0E27" stroke="#FF3B6D" stroke-width="8"/>
+  <path d="M295 280L320 330L345 280" stroke="#FF9E00" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="320" y="430" fill="#ffffff" font-size="42" font-family="Inter, sans-serif" font-weight="700" text-anchor="middle">橙标</text>
+</svg>
